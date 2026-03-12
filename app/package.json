@@ -1,0 +1,26 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "dep manager for elec app",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme",
+  "devDependencies": {
+    "electron": "^41.0.0",
+    "tldraw": "^4.4.1"
+  }
+}
