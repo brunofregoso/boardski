@@ -22,7 +22,7 @@
   "homepage": "https://github.com/N/A#readme",
   "devDependencies": {
     "electron": "^41.0.0",
-    "tldraw": "^4.4.1"
+    "tldraw": "^4.5.10"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",
