@@ -11,6 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/N/A.git"
   },
+  "build": {
+    "extraResources": [
+      {
+        "from": "resources/python",
+        "to": "python"
+      }
+    ]
+  },
   "keywords": [
     "N/A"
   ],
